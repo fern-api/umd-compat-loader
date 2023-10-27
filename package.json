@@ -1,6 +1,6 @@
 {
-  "name": "umd-compat-loader",
-  "version": "2.1.2",
+  "name": "@fern-api/umd-compat-loader",
+  "version": "2.1.4",
   "description": "",
   "main": "index.js",
   "author": "Matthew Gadd",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "ast-types": "^0.13.3",
-    "loader-utils": "^1.0.3",
+    "loader-utils": "^2.0.4",
     "recast": "^0.20.0"
   },
   "devDependencies": {
